@@ -1,0 +1,2355 @@
+{
+  "_uploaded_at": "2021-08-13T08:09:59.879Z",
+  "success": true,
+  "copyright": "This website is owned by ANWB. The intellectual property rights, including the copyrights, in the material contained in this website and any ANWB trademarks and brands included in that material belong to ANWB and/or its licensors and/or its suppliers. No material, information, software, products or services obtained from this website may be modified, copied, licensed, reproduced, republished, sold, distributed, researched, recovered or otherwise disposed in any form, without the prior written approval of ANWB.",
+  "dateTime": "2021-08-13T08:09:00Z",
+  "roads": [
+    {
+      "road": "A2",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Eindhoven",
+          "end": "Maastricht",
+          "roadworks": [
+            {
+              "id": 281702169,
+              "road": "A2",
+              "segmentId": 3102,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Kerensheide",
+              "fromLoc": {
+                "lat": 50.9673,
+                "lon": 5.78742
+              },
+              "to": "afrit Maastricht-Airport",
+              "toLoc": {
+                "lat": 50.92763,
+                "lon": 5.77682
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-20T19:00:00Z",
+              "stop": "2021-08-21T07:00:00Z",
+              "reason": "Dicht. Van 20 augustus 2021 21:00 uur tot 21 augustus 2021 09:00 uur."
+            }
+          ],
+          "radars": [
+            {
+              "id": 783808234,
+              "road": "A2",
+              "segmentId": 3102,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "radars",
+              "incidentType": "radar",
+              "from": "Nederweert",
+              "fromLoc": {
+                "lat": 51.2759,
+                "lon": 5.73637
+              },
+              "to": "Kelpen-Oler",
+              "toLoc": {
+                "lat": 51.23549,
+                "lon": 5.79364
+              },
+              "loc": {
+                "lat": 51.25136,
+                "lon": 5.77495
+              },
+              "HM": 203.7,
+              "events": [
+                {
+                  "alertC": 3101,
+                  "text": "Snelheidscontrole"
+                }
+              ],
+              "reason": "Bij hectometerpaal 203.7."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A6",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Lelystad",
+          "end": "Emmeloord",
+          "roadworks": [
+            {
+              "id": 282050169,
+              "road": "A6",
+              "segmentId": 3371,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Lelystad-Noord",
+              "fromLoc": {
+                "lat": 52.54798,
+                "lon": 5.5312
+              },
+              "to": "afrit Urk",
+              "toLoc": {
+                "lat": 52.64438,
+                "lon": 5.67499
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-13T18:00:00Z",
+              "stop": "2021-08-17T03:00:00Z",
+              "reason": "Dicht. Van 13 augustus 2021 20:00 uur tot 17 augustus 2021 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Lelystad",
+          "end": "Muiden",
+          "radars": [
+            {
+              "id": 3748355219,
+              "road": "A6",
+              "segmentId": 3370,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "radars",
+              "incidentType": "radar",
+              "from": "Almere Haven",
+              "fromLoc": {
+                "lat": 52.35455,
+                "lon": 5.21964
+              },
+              "to": "knp. Gooimeer naar de N702 richting Almere",
+              "toLoc": {
+                "lat": 52.34405,
+                "lon": 5.17752
+              },
+              "loc": {
+                "lat": 52.34869,
+                "lon": 5.19196
+              },
+              "HM": 48.8,
+              "events": [
+                {
+                  "alertC": 3101,
+                  "text": "Snelheidscontrole"
+                }
+              ],
+              "reason": "Bij hectometerpaal 48.8."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A7",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Den Oever",
+          "end": "Heerenveen",
+          "jams": [
+            {
+              "id": 15319646,
+              "road": "A7",
+              "segmentId": 3411,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "jams",
+              "incidentType": "stationary-traffic",
+              "from": "Breezanddijk",
+              "fromLoc": {
+                "lat": 53.02215,
+                "lon": 5.2104
+              },
+              "to": "Kornwerderzand",
+              "toLoc": {
+                "lat": 53.07495,
+                "lon": 5.34188
+              },
+              "events": [
+                {
+                  "alertC": 101,
+                  "text": "Stilstaand verkeer",
+                  "distance": 2000
+                }
+              ],
+              "distance": 2000,
+              "delay": 240,
+              "start": "2021-08-13T08:05:00Z"
+            }
+          ],
+          "roadworks": [
+            {
+              "id": 281802282,
+              "road": "A7",
+              "segmentId": 3411,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "de Stevinsluizen",
+              "fromLoc": {
+                "lat": 52.93511,
+                "lon": 5.04342
+              },
+              "to": "de Stevinsluizen",
+              "toLoc": {
+                "lat": 52.93511,
+                "lon": 5.04342
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-08-06T09:00:00Z",
+              "stop": "2021-08-13T18:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 6 augustus 2021 11:00 uur tot 13 augustus 2021 20:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Groningen",
+          "end": "Heerenveen",
+          "roadworks": [
+            {
+              "id": 281995199,
+              "road": "A7",
+              "segmentId": 3403,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Beetsterzwaag",
+              "fromLoc": {
+                "lat": 53.06134,
+                "lon": 6.0515
+              },
+              "to": "Beetsterzwaag",
+              "toLoc": {
+                "lat": 53.06134,
+                "lon": 6.0515
+              },
+              "events": [
+                {
+                  "alertC": 408,
+                  "text": "De op- en afrit is dicht"
+                }
+              ],
+              "start": "2021-08-12T17:00:00Z",
+              "stop": "2021-08-28T04:00:00Z",
+              "reason": "De op- en afrit is dicht. Van 12 augustus 2021 tot 28 augustus 2021 dagelijks tussen 19:00 uur en 06:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Heerenveen",
+          "end": "Den Oever",
+          "roadworks": [
+            {
+              "id": 2818022820,
+              "road": "A7",
+              "segmentId": 3411,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "de Stevinsluizen",
+              "fromLoc": {
+                "lat": 52.93511,
+                "lon": 5.04342
+              },
+              "to": "de Stevinsluizen",
+              "toLoc": {
+                "lat": 52.93511,
+                "lon": 5.04342
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-08-06T09:00:00Z",
+              "stop": "2021-08-13T18:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 6 augustus 2021 11:00 uur tot 13 augustus 2021 20:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Hoorn",
+          "end": "Heerenveen",
+          "roadworks": [
+            {
+              "id": 245987685,
+              "road": "A7",
+              "segmentId": 3402,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "Den Oever",
+              "fromLoc": {
+                "lat": 52.92921,
+                "lon": 5.03541
+              },
+              "to": "afrit Zurich",
+              "toLoc": {
+                "lat": 53.09287,
+                "lon": 5.37637
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2019-07-01T04:00:00Z",
+              "stop": "2022-12-01T22:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 1 juli 2019 06:00 uur tot 1 december 2022 23:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Heerenveen",
+          "end": "Groningen",
+          "roadworks": [
+            {
+              "id": 281845284,
+              "road": "A7",
+              "segmentId": 3403,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "Tijnje",
+              "fromLoc": {
+                "lat": 53.02065,
+                "lon": 6.00973
+              },
+              "to": "afrit Drachten-Centrum",
+              "toLoc": {
+                "lat": 53.08986,
+                "lon": 6.08623
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-08-09T17:00:00Z",
+              "stop": "2021-08-28T06:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 9 augustus 2021 19:00 uur tot 28 augustus 2021 08:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Groningen",
+          "end": "Duitse grens",
+          "roadworks": [
+            {
+              "id": 281520698,
+              "road": "A7",
+              "segmentId": 3404,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "knp. Zuidbroek",
+              "fromLoc": {
+                "lat": 53.17061,
+                "lon": 6.89387
+              },
+              "to": "Scheemda",
+              "toLoc": {
+                "lat": 53.18701,
+                "lon": 6.97102
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-08-15T07:10:00Z",
+              "stop": "2021-08-31T19:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 15 augustus 2021 09:10 uur tot 31 augustus 2021 21:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Heerenveen",
+          "end": "Hoorn",
+          "roadworks": [
+            {
+              "id": 245987688,
+              "road": "A7",
+              "segmentId": 3401,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "afrit Zurich",
+              "fromLoc": {
+                "lat": 53.09287,
+                "lon": 5.37637
+              },
+              "to": "Den Oever",
+              "toLoc": {
+                "lat": 52.92921,
+                "lon": 5.03541
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2019-07-01T04:00:00Z",
+              "stop": "2022-12-01T22:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 1 juli 2019 06:00 uur tot 1 december 2022 23:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A9",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Amstelveen",
+          "end": "Alkmaar",
+          "jams": [
+            {
+              "id": 15271015,
+              "road": "A9",
+              "segmentId": 3461,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "jams",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Rottepolderplein naar de A200 richting Halfweg",
+              "fromLoc": {
+                "lat": 52.38359,
+                "lon": 4.70819
+              },
+              "to": "knp. Rottepolderplein naar de A200 richting Halfweg",
+              "toLoc": {
+                "lat": 52.38359,
+                "lon": 4.70819
+              },
+              "events": [
+                {
+                  "alertC": 478,
+                  "text": "Verbindingsweg dicht"
+                },
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "reason": "Verbindingsweg dicht. Wegwerkzaamheden."
+            }
+          ],
+          "roadworks": [
+            {
+              "id": 277648854,
+              "road": "A9",
+              "segmentId": 3461,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "afrit Haarlem-Zuid",
+              "fromLoc": {
+                "lat": 52.37293,
+                "lon": 4.71035
+              },
+              "to": "knp. Velsen",
+              "toLoc": {
+                "lat": 52.44144,
+                "lon": 4.66828
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-07-09T19:00:00Z",
+              "stop": "2021-08-23T03:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 9 juli 2021 21:00 uur tot 23 augustus 2021 05:00 uur."
+            },
+            {
+              "id": 279936918,
+              "road": "A9",
+              "segmentId": 3461,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Amstelveen-Stadshart",
+              "fromLoc": {
+                "lat": 52.30148,
+                "lon": 4.85635
+              },
+              "to": "Amstelveen-Stadshart",
+              "toLoc": {
+                "lat": 52.30148,
+                "lon": 4.85635
+              },
+              "events": [
+                {
+                  "alertC": 408,
+                  "text": "De op- en afrit is dicht"
+                }
+              ],
+              "start": "2021-07-09T21:00:00Z",
+              "stop": "2021-08-30T03:00:00Z",
+              "reason": "De op- en afrit is dicht. Van 9 juli 2021 23:00 uur tot 30 augustus 2021 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Alkmaar",
+          "end": "Amstelveen",
+          "jams": [
+            {
+              "id": 15319386,
+              "road": "A9",
+              "segmentId": 3461,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "jams",
+              "incidentType": "slow-traffic",
+              "from": "Beverwijk-Oost",
+              "fromLoc": {
+                "lat": 52.47377,
+                "lon": 4.68258
+              },
+              "to": "knp. Rottepolderplein",
+              "toLoc": {
+                "lat": 52.38439,
+                "lon": 4.70737
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                },
+                {
+                  "alertC": 115,
+                  "text": "Langzaam rijdend verkeer",
+                  "distance": 9600
+                }
+              ],
+              "distance": 9600,
+              "delay": 420,
+              "start": "2021-08-13T06:26:00Z",
+              "reason": "Wegwerkzaamheden."
+            }
+          ],
+          "roadworks": [
+            {
+              "id": 278740811,
+              "road": "A9",
+              "segmentId": 3461,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "knp. Velsen",
+              "fromLoc": {
+                "lat": 52.44144,
+                "lon": 4.66828
+              },
+              "to": "afrit Haarlem-Zuid",
+              "toLoc": {
+                "lat": 52.37293,
+                "lon": 4.71035
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-07-09T19:00:00Z",
+              "stop": "2021-08-23T03:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 9 juli 2021 21:00 uur tot 23 augustus 2021 05:00 uur."
+            },
+            {
+              "id": 2799369180,
+              "road": "A9",
+              "segmentId": 3461,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Amstelveen-Stadshart",
+              "fromLoc": {
+                "lat": 52.30148,
+                "lon": 4.85635
+              },
+              "to": "Amstelveen-Stadshart",
+              "toLoc": {
+                "lat": 52.30148,
+                "lon": 4.85635
+              },
+              "events": [
+                {
+                  "alertC": 408,
+                  "text": "De op- en afrit is dicht"
+                }
+              ],
+              "start": "2021-07-09T21:00:00Z",
+              "stop": "2021-08-30T03:00:00Z",
+              "reason": "De op- en afrit is dicht. Van 9 juli 2021 23:00 uur tot 30 augustus 2021 05:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A12",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Arnhem",
+          "end": "Duitse grens",
+          "roadworks": [
+            {
+              "id": 228380500,
+              "road": "A12",
+              "segmentId": 3022,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "knp. Velperbroek",
+              "fromLoc": {
+                "lat": 51.9819,
+                "lon": 5.97862
+              },
+              "to": "knp. Velperbroek",
+              "toLoc": {
+                "lat": 51.9819,
+                "lon": 5.97862
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2020-01-13T21:00:00Z",
+              "stop": "2023-12-31T04:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 13 januari 2020 22:00 uur tot 31 december 2023 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Den Haag",
+          "end": "Utrecht",
+          "roadworks": [
+            {
+              "id": 282060210,
+              "road": "A12",
+              "segmentId": 3020,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Bleiswijk",
+              "fromLoc": {
+                "lat": 52.03614,
+                "lon": 4.54206
+              },
+              "to": "Bleiswijk",
+              "toLoc": {
+                "lat": 52.03614,
+                "lon": 4.54206
+              },
+              "events": [
+                {
+                  "alertC": 407,
+                  "text": "De afrit is dicht"
+                }
+              ],
+              "start": "2021-08-13T19:00:00Z",
+              "stop": "2021-08-16T03:00:00Z",
+              "reason": "De afrit is dicht. Van 13 augustus 2021 tot 16 augustus 2021 dagelijks tussen 21:00 uur en 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Utrecht",
+          "end": "Den Haag",
+          "roadworks": [
+            {
+              "id": 2820602100,
+              "road": "A12",
+              "segmentId": 3020,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Bleiswijk",
+              "fromLoc": {
+                "lat": 52.03614,
+                "lon": 4.54206
+              },
+              "to": "Bleiswijk",
+              "toLoc": {
+                "lat": 52.03614,
+                "lon": 4.54206
+              },
+              "events": [
+                {
+                  "alertC": 407,
+                  "text": "De afrit is dicht"
+                }
+              ],
+              "start": "2021-08-13T19:00:00Z",
+              "stop": "2021-08-16T03:00:00Z",
+              "reason": "De afrit is dicht. Van 13 augustus 2021 tot 16 augustus 2021 dagelijks tussen 21:00 uur en 05:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A15",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Rotterdam",
+          "end": "Gorinchem",
+          "roadworks": [
+            {
+              "id": 282060706,
+              "road": "A15",
+              "segmentId": 3056,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Ridderkerk naar de A16 richting Breda",
+              "fromLoc": {
+                "lat": 51.85645,
+                "lon": 4.61063
+              },
+              "to": "Hardinxveld-Giessendam",
+              "toLoc": {
+                "lat": 51.82443,
+                "lon": 4.84649
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-13T20:00:00Z",
+              "stop": "2021-08-16T03:00:00Z",
+              "reason": "Dicht. Van 13 augustus 2021 22:00 uur tot 16 augustus 2021 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Rotterdam",
+          "end": "Maasvlakte",
+          "roadworks": [
+            {
+              "id": 277114551,
+              "road": "A15",
+              "segmentId": 3055,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "de Suurhoffbrug",
+              "fromLoc": {
+                "lat": 51.93742,
+                "lon": 4.10672
+              },
+              "to": "afrit Oostvoorne",
+              "toLoc": {
+                "lat": 51.93214,
+                "lon": 4.10139
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-06-28T03:00:00Z",
+              "stop": "2021-08-20T03:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 28 juni 2021 05:00 uur tot 20 augustus 2021 05:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A20",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Hoek van Holland",
+          "end": "Gouda",
+          "jams": [
+            {
+              "id": 15319618,
+              "road": "A20",
+              "segmentId": 3123,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "jams",
+              "incidentType": "slow-traffic",
+              "from": "Rotterdam-Delfshaven",
+              "fromLoc": {
+                "lat": 51.92293,
+                "lon": 4.41736
+              },
+              "to": "Rotterdam-Noord",
+              "toLoc": {
+                "lat": 51.93836,
+                "lon": 4.46063
+              },
+              "events": [
+                {
+                  "alertC": 115,
+                  "text": "Langzaam rijdend verkeer",
+                  "distance": 2000
+                }
+              ],
+              "distance": 2000,
+              "delay": 180,
+              "start": "2021-08-13T07:59:00Z"
+            }
+          ],
+          "roadworks": [
+            {
+              "id": 282061189,
+              "road": "A20",
+              "segmentId": 3123,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Rotterdam-Delfshaven",
+              "fromLoc": {
+                "lat": 51.92293,
+                "lon": 4.41736
+              },
+              "to": "Rotterdam-Delfshaven",
+              "toLoc": {
+                "lat": 51.92293,
+                "lon": 4.41736
+              },
+              "events": [
+                {
+                  "alertC": 407,
+                  "text": "De afrit is dicht"
+                }
+              ],
+              "start": "2021-08-13T19:00:00Z",
+              "stop": "2021-08-14T03:00:00Z",
+              "reason": "De afrit is dicht. Van 13 augustus 2021 21:00 uur tot 14 augustus 2021 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Gouda",
+          "end": "Hoek van Holland",
+          "roadworks": [
+            {
+              "id": 282060970,
+              "road": "A20",
+              "segmentId": 3123,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Rotterdam-Noord",
+              "fromLoc": {
+                "lat": 51.93836,
+                "lon": 4.46063
+              },
+              "to": "Rotterdam-Noord",
+              "toLoc": {
+                "lat": 51.93836,
+                "lon": 4.46063
+              },
+              "events": [
+                {
+                  "alertC": 406,
+                  "text": "De oprit is dicht"
+                }
+              ],
+              "start": "2021-08-13T19:00:00Z",
+              "stop": "2021-08-14T03:00:00Z",
+              "reason": "De oprit is dicht. Van 13 augustus 2021 21:00 uur tot 14 augustus 2021 05:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A22",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Velsen",
+          "end": "Beverwijk",
+          "roadworks": [
+            {
+              "id": 281802713,
+              "road": "A22",
+              "segmentId": 3463,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Velsen",
+              "fromLoc": {
+                "lat": 52.44051,
+                "lon": 4.6678
+              },
+              "to": "knp. Velsen",
+              "toLoc": {
+                "lat": 52.44051,
+                "lon": 4.6678
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-08T21:59:00Z",
+              "stop": "2021-08-13T21:00:00Z",
+              "reason": "Dicht. Van 8 augustus 2021 23:59 uur tot 13 augustus 2021 23:00 uur."
+            },
+            {
+              "id": 282061192,
+              "road": "A22",
+              "segmentId": 3463,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "afrit IJmuiden",
+              "fromLoc": {
+                "lat": 52.4531,
+                "lon": 4.65776
+              },
+              "to": "knp. Velsen naar de A9 richting Alkmaar",
+              "toLoc": {
+                "lat": 52.48552,
+                "lon": 4.69202
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-13T19:00:00Z",
+              "stop": "2021-08-14T05:00:00Z",
+              "reason": "Dicht. Van 13 augustus 2021 21:00 uur tot 14 augustus 2021 07:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A28",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Zwolle",
+          "end": "Groningen",
+          "roadworks": [
+            {
+              "id": 282066719,
+              "road": "A28",
+              "segmentId": 3192,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "afrit Ommen",
+              "fromLoc": {
+                "lat": 52.53207,
+                "lon": 6.15235
+              },
+              "to": "afrit Ommen",
+              "toLoc": {
+                "lat": 52.53207,
+                "lon": 6.15235
+              },
+              "events": [
+                {
+                  "alertC": 407,
+                  "text": "De afrit is dicht"
+                }
+              ],
+              "start": "2021-08-13T18:00:00Z",
+              "stop": "2021-08-14T06:00:00Z",
+              "reason": "De afrit is dicht. Van 13 augustus 2021 20:00 uur tot 14 augustus 2021 08:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A29",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Bergen op Zoom",
+          "end": "Rotterdam",
+          "roadworks": [
+            {
+              "id": 281845302,
+              "road": "A29",
+              "segmentId": 3210,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "de Heinenoordtunnel",
+              "fromLoc": {
+                "lat": 51.83245,
+                "lon": 4.5113
+              },
+              "to": "de Heinenoordtunnel",
+              "toLoc": {
+                "lat": 51.83245,
+                "lon": 4.5113
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-13T21:59:00Z",
+              "stop": "2021-08-14T06:00:00Z",
+              "reason": "Dicht. Van 13 augustus 2021 23:59 uur tot 14 augustus 2021 08:00 uur."
+            },
+            {
+              "id": 280733719,
+              "road": "A29",
+              "segmentId": 3210,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "de Haringvlietbrug",
+              "fromLoc": {
+                "lat": 51.71358,
+                "lon": 4.39935
+              },
+              "to": "de Haringvlietbrug",
+              "toLoc": {
+                "lat": 51.71358,
+                "lon": 4.39935
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-08-23T03:00:00Z",
+              "stop": "2023-07-01T03:00:00Z",
+              "reason": "Wegwerkzaamheden. Maximum snelheid 50 km/u. Van 23 augustus 2021 05:00 uur tot 1 juli 2023 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Rotterdam",
+          "end": "Bergen op Zoom",
+          "roadworks": [
+            {
+              "id": 2807337190,
+              "road": "A29",
+              "segmentId": 3210,
+              "codeDirection": 2,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "de Haringvlietbrug",
+              "fromLoc": {
+                "lat": 51.71358,
+                "lon": 4.39935
+              },
+              "to": "de Haringvlietbrug",
+              "toLoc": {
+                "lat": 51.71358,
+                "lon": 4.39935
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-08-23T03:00:00Z",
+              "stop": "2023-07-01T03:00:00Z",
+              "reason": "Wegwerkzaamheden. Maximum snelheid 50 km/u. Van 23 augustus 2021 05:00 uur tot 1 juli 2023 05:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A32",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Heerenveen",
+          "end": "Leeuwarden",
+          "roadworks": [
+            {
+              "id": 260867973,
+              "road": "A32",
+              "segmentId": 3241,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Heerenveen-Centrum",
+              "fromLoc": {
+                "lat": 52.96512,
+                "lon": 5.93327
+              },
+              "to": "Heerenveen-Centrum",
+              "toLoc": {
+                "lat": 52.96512,
+                "lon": 5.93327
+              },
+              "events": [
+                {
+                  "alertC": 408,
+                  "text": "De op- en afrit is dicht"
+                }
+              ],
+              "start": "2021-01-04T23:01:00Z",
+              "stop": "2021-08-22T21:30:00Z",
+              "reason": "De op- en afrit is dicht. Van 5 januari 2021 00:01 uur tot 22 augustus 2021 23:30 uur."
+            }
+          ]
+        },
+        {
+          "start": "Meppel",
+          "end": "Leeuwarden",
+          "roadworks": [
+            {
+              "id": 278334569,
+              "road": "A32",
+              "segmentId": 3241,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "Wolvega",
+              "fromLoc": {
+                "lat": 52.88075,
+                "lon": 6.02496
+              },
+              "to": "knp. Heerenveen",
+              "toLoc": {
+                "lat": 52.97508,
+                "lon": 5.91618
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-07-05T22:00:00Z",
+              "stop": "2021-08-22T21:59:00Z",
+              "reason": "Wegwerkzaamheden. Van 6 juli 2021 00:00 uur tot 22 augustus 2021 23:59 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A37",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Duitse grens",
+          "end": "Hoogeveen",
+          "radars": [
+            {
+              "id": 426252290,
+              "road": "A37",
+              "segmentId": 5151,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "radars",
+              "incidentType": "radar",
+              "from": "Oosterhesselen",
+              "fromLoc": {
+                "lat": 52.72443,
+                "lon": 6.73067
+              },
+              "to": "Nieuwlande",
+              "toLoc": {
+                "lat": 52.71243,
+                "lon": 6.6072
+              },
+              "loc": {
+                "lat": 52.72029,
+                "lon": 6.66006
+              },
+              "HM": 14,
+              "events": [
+                {
+                  "alertC": 3101,
+                  "text": "Snelheidscontrole"
+                }
+              ],
+              "reason": "Bij hectometerpaal 14.0."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A44",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Wassenaar",
+          "end": "Den Haag",
+          "roadworks": [
+            {
+              "id": 281510972,
+              "road": "A44",
+              "segmentId": 3320,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Wassenaar",
+              "fromLoc": {
+                "lat": 52.14224,
+                "lon": 4.41628
+              },
+              "to": "de aansluiting met de N14",
+              "toLoc": {
+                "lat": 52.10553,
+                "lon": 4.35846
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-20T19:00:00Z",
+              "stop": "2021-08-21T06:00:00Z",
+              "reason": "Dicht. Van 20 augustus 2021 21:00 uur tot 21 augustus 2021 08:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A50",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Arnhem",
+          "end": "Oss",
+          "radars": [
+            {
+              "id": 886663718,
+              "road": "A50",
+              "segmentId": 3340,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "radars",
+              "incidentType": "radar",
+              "from": "de Waalbrug bij Ewijk",
+              "fromLoc": {
+                "lat": 51.88548,
+                "lon": 5.7379
+              },
+              "to": "knp. Ewijk naar de A73 richting Venlo",
+              "toLoc": {
+                "lat": 51.86018,
+                "lon": 5.71384
+              },
+              "loc": {
+                "lat": 51.8798,
+                "lon": 5.73492
+              },
+              "HM": 150.9,
+              "events": [
+                {
+                  "alertC": 3101,
+                  "text": "Snelheidscontrole"
+                }
+              ],
+              "reason": "Bij hectometerpaal 150.9."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A76",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Heerlen",
+          "end": "Geleen",
+          "roadworks": [
+            {
+              "id": 282127370,
+              "road": "A76",
+              "segmentId": 3421,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Nuth",
+              "fromLoc": {
+                "lat": 50.93119,
+                "lon": 5.88359
+              },
+              "to": "Geleen",
+              "toLoc": {
+                "lat": 50.95573,
+                "lon": 5.81174
+              },
+              "events": [
+                {
+                  "alertC": 402,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-24T19:00:00Z",
+              "stop": "2021-08-25T03:00:00Z",
+              "reason": "Dicht. Van 24 augustus 2021 21:00 uur tot 25 augustus 2021 05:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A79",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Heerlen",
+          "end": "Maastricht",
+          "roadworks": [
+            {
+              "id": 281885425,
+              "road": "A79",
+              "segmentId": 3440,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Voerendaal",
+              "fromLoc": {
+                "lat": 50.8717,
+                "lon": 5.92905
+              },
+              "to": "Voerendaal",
+              "toLoc": {
+                "lat": 50.8717,
+                "lon": 5.92905
+              },
+              "events": [
+                {
+                  "alertC": 407,
+                  "text": "De afrit is dicht"
+                }
+              ],
+              "start": "2021-08-06T10:00:00Z",
+              "stop": "2021-09-26T19:00:00Z",
+              "reason": "De afrit is dicht. Van 6 augustus 2021 12:00 uur tot 26 september 2021 21:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A200",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Haarlem",
+          "end": "Amsterdam",
+          "jams": [
+            {
+              "id": 15308664,
+              "road": "A200",
+              "segmentId": 3333,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "jams",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Rottepolderplein naar de A9 richting Alkmaar",
+              "fromLoc": {
+                "lat": 52.38384,
+                "lon": 4.7084
+              },
+              "to": "knp. Rottepolderplein naar de A9 richting Alkmaar",
+              "toLoc": {
+                "lat": 52.38384,
+                "lon": 4.7084
+              },
+              "events": [
+                {
+                  "alertC": 478,
+                  "text": "Verbindingsweg dicht"
+                },
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "reason": "Verbindingsweg dicht. Wegwerkzaamheden."
+            }
+          ]
+        },
+        {
+          "start": "Amsterdam",
+          "end": "Haarlem",
+          "jams": [
+            {
+              "id": 15308663,
+              "road": "A200",
+              "segmentId": 3333,
+              "codeDirection": 0,
+              "type": "a",
+              "afrc": 0,
+              "category": "jams",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Rottepolderplein naar de A9 richting Alkmaar",
+              "fromLoc": {
+                "lat": 52.38484,
+                "lon": 4.709
+              },
+              "to": "knp. Rottepolderplein naar de A9 richting Alkmaar",
+              "toLoc": {
+                "lat": 52.38484,
+                "lon": 4.709
+              },
+              "events": [
+                {
+                  "alertC": 478,
+                  "text": "Verbindingsweg dicht"
+                },
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "reason": "Verbindingsweg dicht. Wegwerkzaamheden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "A348",
+      "type": "a",
+      "segments": [
+        {
+          "start": "Arnhem",
+          "end": "Doesburg",
+          "jams": [
+            {
+              "id": 15189804,
+              "road": "A348",
+              "segmentId": 3270,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "jams",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Velp",
+              "fromLoc": {
+                "lat": 51.99739,
+                "lon": 6.00657
+              },
+              "to": "afrit Doesburg",
+              "toLoc": {
+                "lat": 52.03031,
+                "lon": 6.10321
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                },
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "reason": "Wegwerkzaamheden. Dicht."
+            }
+          ]
+        },
+        {
+          "start": "Arnhem",
+          "end": "Zutphen",
+          "roadworks": [
+            {
+              "id": 280239920,
+              "road": "A348",
+              "segmentId": 3274,
+              "codeDirection": 1,
+              "type": "a",
+              "afrc": 0,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Velp",
+              "fromLoc": {
+                "lat": 51.99739,
+                "lon": 6.00657
+              },
+              "to": "Doesburg",
+              "toLoc": {
+                "lat": 52.03032,
+                "lon": 6.10322
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-07-18T05:00:00Z",
+              "stop": "2021-08-14T05:00:00Z",
+              "reason": "Dicht. Van 18 juli 2021 07:00 uur tot 14 augustus 2021 07:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N3",
+      "type": "n",
+      "segments": [
+        {
+          "start": "Papendrecht",
+          "end": "Dordrecht",
+          "jams": [
+            {
+              "id": 15319524,
+              "road": "N3",
+              "segmentId": 4440,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "jams",
+              "incidentType": "queing-traffic",
+              "from": "de aansluiting met de A15",
+              "fromLoc": {
+                "lat": 51.8392,
+                "lon": 4.71249
+              },
+              "to": "afrit Dordrecht-Centrum",
+              "toLoc": {
+                "lat": 51.81644,
+                "lon": 4.70783
+              },
+              "events": [
+                {
+                  "alertC": 108,
+                  "text": "Langzaam rijdend tot stilstaand verkeer",
+                  "distance": 2500
+                }
+              ],
+              "distance": 2500,
+              "delay": 300,
+              "start": "2021-08-13T07:38:00Z"
+            }
+          ],
+          "roadworks": [
+            {
+              "id": 251462979,
+              "road": "N3",
+              "segmentId": 4440,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "Papendrecht",
+              "fromLoc": {
+                "lat": 51.83113,
+                "lon": 4.70663
+              },
+              "to": "Dordrecht",
+              "toLoc": {
+                "lat": 51.79528,
+                "lon": 4.6794
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2020-08-06T05:00:00Z",
+              "stop": "2021-10-01T05:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 6 augustus 2020 07:00 uur tot 1 oktober 2021 07:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Dordrecht",
+          "end": "Papendrecht",
+          "roadworks": [
+            {
+              "id": 251462876,
+              "road": "N3",
+              "segmentId": 4440,
+              "codeDirection": 1,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "Dordrecht",
+              "fromLoc": {
+                "lat": 51.79528,
+                "lon": 4.6794
+              },
+              "to": "Papendrecht",
+              "toLoc": {
+                "lat": 51.83113,
+                "lon": 4.70663
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2020-08-06T05:00:00Z",
+              "stop": "2021-10-01T05:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 6 augustus 2020 07:00 uur tot 1 oktober 2021 07:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N7",
+      "type": "n",
+      "segments": [
+        {
+          "start": "de Duitse grens",
+          "end": "Groningen",
+          "jams": [
+            {
+              "id": 15258952,
+              "road": "N7",
+              "segmentId": 3412,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "jams",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Euvelgunne",
+              "fromLoc": {
+                "lat": 53.21693,
+                "lon": 6.61843
+              },
+              "to": "Groningen-Zuidoost",
+              "toLoc": {
+                "lat": 53.21149,
+                "lon": 6.58856
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                },
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "reason": "Wegwerkzaamheden. Dicht."
+            }
+          ],
+          "roadworks": [
+            {
+              "id": 274315851,
+              "road": "N7",
+              "segmentId": 3412,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "knp. Euvelgunne",
+              "fromLoc": {
+                "lat": 53.21693,
+                "lon": 6.61843
+              },
+              "to": "Groningen-Zuidoost",
+              "toLoc": {
+                "lat": 53.21149,
+                "lon": 6.58856
+              },
+              "events": [
+                {
+                  "alertC": 402,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-07-12T04:00:00Z",
+              "stop": "2021-08-23T04:00:00Z",
+              "reason": "Dicht. Van 12 juli 2021 06:00 uur tot 23 augustus 2021 06:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N44",
+      "type": "n",
+      "segments": [
+        {
+          "start": "Den Haag",
+          "end": "Wassenaar",
+          "roadworks": [
+            {
+              "id": 281510963,
+              "road": "N44",
+              "segmentId": 3320,
+              "codeDirection": 1,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "de aansluiting met de N14",
+              "fromLoc": {
+                "lat": 52.10553,
+                "lon": 4.35846
+              },
+              "to": "Wassenaar",
+              "toLoc": {
+                "lat": 52.14224,
+                "lon": 4.41628
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-20T19:00:00Z",
+              "stop": "2021-08-23T03:00:00Z",
+              "reason": "Dicht. Van 20 augustus 2021 21:00 uur tot 23 augustus 2021 05:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Wassenaar",
+          "end": "Den Haag",
+          "roadworks": [
+            {
+              "id": 281550769,
+              "road": "N44",
+              "segmentId": 3320,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Wassenaar-Noord",
+              "fromLoc": {
+                "lat": 52.14196,
+                "lon": 4.41563
+              },
+              "to": "de aansluiting met de N14",
+              "toLoc": {
+                "lat": 52.10553,
+                "lon": 4.35846
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-21T19:00:00Z",
+              "stop": "2021-08-22T06:00:00Z",
+              "reason": "Dicht. Van 21 augustus 2021 21:00 uur tot 22 augustus 2021 08:00 uur."
+            },
+            {
+              "id": 281550770,
+              "road": "N44",
+              "segmentId": 3320,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Wassenaar-Noord",
+              "fromLoc": {
+                "lat": 52.14196,
+                "lon": 4.41563
+              },
+              "to": "de aansluiting met de N14",
+              "toLoc": {
+                "lat": 52.10553,
+                "lon": 4.35846
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-22T18:00:00Z",
+              "stop": "2021-08-23T03:00:00Z",
+              "reason": "Dicht. Van 22 augustus 2021 20:00 uur tot 23 augustus 2021 05:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N50",
+      "type": "n",
+      "segments": [
+        {
+          "start": "Zwolle",
+          "end": "Emmeloord",
+          "jams": [
+            {
+              "id": 15319639,
+              "road": "N50",
+              "segmentId": 3343,
+              "codeDirection": 1,
+              "type": "n",
+              "afrc": 3,
+              "category": "jams",
+              "incidentType": "queing-traffic",
+              "from": "Kampen",
+              "fromLoc": {
+                "lat": 52.55471,
+                "lon": 5.88169
+              },
+              "to": "Ens",
+              "toLoc": {
+                "lat": 52.63814,
+                "lon": 5.81559
+              },
+              "events": [
+                {
+                  "alertC": 108,
+                  "text": "Langzaam rijdend tot stilstaand verkeer",
+                  "distance": 3700
+                }
+              ],
+              "distance": 3700,
+              "delay": 300,
+              "start": "2021-08-13T08:03:00Z"
+            }
+          ]
+        },
+        {
+          "start": "Emmeloord",
+          "end": "Zwolle",
+          "jams": [
+            {
+              "id": 15319652,
+              "road": "N50",
+              "segmentId": 3343,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "jams",
+              "incidentType": "stationary-traffic",
+              "from": "Ens",
+              "fromLoc": {
+                "lat": 52.63814,
+                "lon": 5.81559
+              },
+              "to": "Kampen-Noord",
+              "toLoc": {
+                "lat": 52.5724,
+                "lon": 5.86292
+              },
+              "events": [
+                {
+                  "alertC": 101,
+                  "text": "Stilstaand verkeer",
+                  "distance": 2400
+                }
+              ],
+              "distance": 2400,
+              "delay": 360,
+              "start": "2021-08-13T08:06:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N57",
+      "type": "n",
+      "segments": [
+        {
+          "start": "Middelburg",
+          "end": "Rotterdam",
+          "jams": [
+            {
+              "id": 15319654,
+              "road": "N57",
+              "segmentId": 5417,
+              "codeDirection": 1,
+              "type": "n",
+              "afrc": 3,
+              "category": "jams",
+              "incidentType": "queing-traffic",
+              "from": "Ouddorp",
+              "fromLoc": {
+                "lat": 51.80844,
+                "lon": 3.94471
+              },
+              "to": "Goedereede",
+              "toLoc": {
+                "lat": 51.81568,
+                "lon": 3.98266
+              },
+              "events": [
+                {
+                  "alertC": 108,
+                  "text": "Langzaam rijdend tot stilstaand verkeer",
+                  "distance": 2300
+                }
+              ],
+              "distance": 2300,
+              "delay": 240,
+              "start": "2021-08-13T08:06:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N210",
+      "type": "n",
+      "segments": [
+        {
+          "start": "Rotterdam",
+          "end": "Schoonhoven",
+          "roadworks": [
+            {
+              "id": 266078847,
+              "road": "N210",
+              "segmentId": 3600,
+              "codeDirection": 2,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "Krimpen a/d IJssel",
+              "fromLoc": {
+                "lat": 51.90808,
+                "lon": 4.62108
+              },
+              "to": "Krimpen a/d IJssel",
+              "toLoc": {
+                "lat": 51.90808,
+                "lon": 4.62108
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-03-15T05:00:00Z",
+              "stop": "2022-12-31T05:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 15 maart 2021 06:00 uur tot 31 december 2022 06:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "Schoonhoven",
+          "end": "Rotterdam",
+          "roadworks": [
+            {
+              "id": 2660788470,
+              "road": "N210",
+              "segmentId": 3600,
+              "codeDirection": 2,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "incidentType": "roadwork",
+              "from": "Krimpen a/d IJssel",
+              "fromLoc": {
+                "lat": 51.90808,
+                "lon": 4.62108
+              },
+              "to": "Krimpen a/d IJssel",
+              "toLoc": {
+                "lat": 51.90808,
+                "lon": 4.62108
+              },
+              "events": [
+                {
+                  "alertC": 701,
+                  "text": "Wegwerkzaamheden"
+                }
+              ],
+              "start": "2021-03-15T05:00:00Z",
+              "stop": "2022-12-31T05:00:00Z",
+              "reason": "Wegwerkzaamheden. Van 15 maart 2021 06:00 uur tot 31 december 2022 06:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N228",
+      "type": "n",
+      "segments": [
+        {
+          "start": "Gouda",
+          "end": "De Meern",
+          "roadworks": [
+            {
+              "id": 281930567,
+              "road": "N228",
+              "segmentId": 3770,
+              "codeDirection": 2,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Montfoort",
+              "fromLoc": {
+                "lat": 52.04864,
+                "lon": 4.95525
+              },
+              "to": "Montfoort",
+              "toLoc": {
+                "lat": 52.04864,
+                "lon": 4.95525
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-07-11T22:00:00Z",
+              "stop": "2021-08-27T22:00:00Z",
+              "reason": "Dicht. Van 12 juli 2021 00:00 uur tot 28 augustus 2021 00:00 uur."
+            },
+            {
+              "id": 281930381,
+              "road": "N228",
+              "segmentId": 3770,
+              "codeDirection": 2,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Haastrecht",
+              "fromLoc": {
+                "lat": 52.00101,
+                "lon": 4.77876
+              },
+              "to": "Haastrecht",
+              "toLoc": {
+                "lat": 52.00101,
+                "lon": 4.77876
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-08T22:00:00Z",
+              "stop": "2021-08-27T22:00:00Z",
+              "reason": "Dicht. Van 9 augustus 2021 00:00 uur tot 28 augustus 2021 00:00 uur."
+            }
+          ]
+        },
+        {
+          "start": "De Meern",
+          "end": "Gouda",
+          "roadworks": [
+            {
+              "id": 2819305670,
+              "road": "N228",
+              "segmentId": 3770,
+              "codeDirection": 2,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Montfoort",
+              "fromLoc": {
+                "lat": 52.04864,
+                "lon": 4.95525
+              },
+              "to": "Montfoort",
+              "toLoc": {
+                "lat": 52.04864,
+                "lon": 4.95525
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-07-11T22:00:00Z",
+              "stop": "2021-08-27T22:00:00Z",
+              "reason": "Dicht. Van 12 juli 2021 00:00 uur tot 28 augustus 2021 00:00 uur."
+            },
+            {
+              "id": 2819303810,
+              "road": "N228",
+              "segmentId": 3770,
+              "codeDirection": 2,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Haastrecht",
+              "fromLoc": {
+                "lat": 52.00101,
+                "lon": 4.77876
+              },
+              "to": "Haastrecht",
+              "toLoc": {
+                "lat": 52.00101,
+                "lon": 4.77876
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-08T22:00:00Z",
+              "stop": "2021-08-27T22:00:00Z",
+              "reason": "Dicht. Van 9 augustus 2021 00:00 uur tot 28 augustus 2021 00:00 uur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "road": "N340",
+      "type": "n",
+      "segments": [
+        {
+          "start": "Zwolle",
+          "end": "Ommen",
+          "roadworks": [
+            {
+              "id": 281862741,
+              "road": "N340",
+              "segmentId": 4850,
+              "codeDirection": 1,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "de aansluiting met de A28",
+              "fromLoc": {
+                "lat": 52.53011,
+                "lon": 6.14807
+              },
+              "to": "Ommen",
+              "toLoc": {
+                "lat": 52.52427,
+                "lon": 6.395
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-05T22:00:00Z",
+              "stop": "2021-08-30T21:59:00Z",
+              "reason": "Dicht. Van 6 augustus 2021 00:00 uur tot 30 augustus 2021 23:59 uur."
+            }
+          ]
+        },
+        {
+          "start": "Ommen",
+          "end": "Zwolle",
+          "roadworks": [
+            {
+              "id": 281862811,
+              "road": "N340",
+              "segmentId": 4850,
+              "codeDirection": 0,
+              "type": "n",
+              "afrc": 3,
+              "category": "roadworks",
+              "label": "closed",
+              "incidentType": "road-closed",
+              "from": "Ommen",
+              "fromLoc": {
+                "lat": 52.52427,
+                "lon": 6.395
+              },
+              "to": "de aansluiting met de A28",
+              "toLoc": {
+                "lat": 52.53011,
+                "lon": 6.14807
+              },
+              "events": [
+                {
+                  "alertC": 401,
+                  "text": "Dicht"
+                }
+              ],
+              "start": "2021-08-05T22:00:00Z",
+              "stop": "2021-08-30T21:59:00Z",
+              "reason": "Dicht. Van 6 augustus 2021 00:00 uur tot 30 augustus 2021 23:59 uur."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "a": {
+      "distance": 14,
+      "delay": 14,
+      "count": 7
+    },
+    "n": {
+      "distance": 11,
+      "delay": 20,
+      "count": 5
+    },
+    "other": {
+      "distance": 0,
+      "delay": 0,
+      "count": 0
+    },
+    "all": {
+      "distance": 25,
+      "delay": 34,
+      "count": 12
+    }
+  },
+  "warnings": []
+}

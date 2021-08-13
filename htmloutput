@@ -1,0 +1,1424 @@
+Diplo - Justin Bieber - Skrillex
+Where Are U Now
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/WebPage" lang="nl">
+ <head>
+  <meta charset="utf-8"/>
+  <base href="https://www.anwb.nl/verkeer/flitsers/"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" name="viewport"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="#ffcc00" name="msapplication-TileColor"/>
+  <meta content="https://www.static.anwb.nl/browserconfig.xml" name="msapplication-config"/>
+  <meta content="#ffffff" name="theme-color"/>
+  <link href="/favicon.ico" rel="shortcut icon"/>
+  <link href="https://static.anwb.nl/common/assets/anwb-icon-16.png" rel="icon" sizes="16x16"/>
+  <link href="https://static.anwb.nl/common/assets/anwb-icon-32.png" rel="icon" sizes="32x32"/>
+  <link href="https://static.anwb.nl/common/assets/anwb-icon-180.png" rel="icon" sizes="180x180"/>
+  <link href="https://static.anwb.nl/common/assets/anwb-icon-192.png" rel="icon" sizes="192x192"/>
+  <link href="https://static.anwb.nl/common/assets/anwb-icon-512.png" rel="icon" sizes="512x512"/>
+  <link href="https://static.anwb.nl/common/assets/anwb-icon-180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link color="#003c85" href="https://static.anwb.nl/common/assets/safari-pinned-tab.svg" rel="mask-icon"/>
+  <link href="https://www.static.anwb.nl/site.webmanifest" rel="manifest"/>
+  <link href="https://www.anwb.nl/verkeer/flitsers" rel="canonical">
+   <meta content="https://www.anwb.nl/verkeer/flitsers" property="og:url">
+    <meta content="Flitsers, snelheidscontroles Nederland - ANWB" property="og:title">
+     <meta content="summary_large_image" name="twitter:card">
+      <meta content="Flitsers, snelheidscontroles Nederland - ANWB" name="twitter:title"/>
+      <meta content="2012-12-19T13:20:22+0100" property="article:published_time"/>
+      <meta content="2020-09-24T12:57:06+0200" property="article:modified_time"/>
+      <meta content="https://www.anwb.nl/binaries/content/gallery/anwb/configuratie/anwb_wegenwacht_2.jpg/anwb_wegenwacht_2.jpg/anwb:w620" name="twitter:image"/>
+      <meta content="article" name="document_type" property="og:type"/>
+      <meta content="rd_artikel" name="DC.Type"/>
+      <meta content="Overzicht flitsers, snelheidscontroles vandaag in Nederland." name="description" property="og:description"/>
+      <meta content="Overzicht flitsers, snelheidscontroles vandaag in Nederland." name="twitter:description"/>
+      <title>
+       Flitsers, snelheidscontroles Nederland - ANWB
+      </title>
+      <script src="https://www.static.anwb.nl/index.js">
+      </script>
+      <link href="https://www.static.anwb.nl/index.css" rel="stylesheet">
+      </link>
+     </meta>
+    </meta>
+   </meta>
+  </link>
+ </head>
+ <body>
+  <header data-radio-name="aria-haspopup-radio-toggle">
+   <nav class="utilities">
+    <a data-ui="skip-link" href="/verkeer/flitsers#content">
+     Naar artikel
+    </a>
+    <div class="logo">
+     <a href="/" title="ANWB Homepage">
+     </a>
+    </div>
+   </nav>
+   <!--googleoff: all-->
+   <nav aria-label="Mega menu" class="navigation-main" data-ui="old-menu" role="navigation">
+    <ul class="navigation-content">
+     <li aria-haspopup="true">
+      <input id="toggle-navigation-content" name="aria-haspopup-radio-toggle" type="radio"/>
+      <label for="toggle-navigation-content">
+       Menu
+      </label>
+      <ul aria-label="submenu" role="menubar">
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Wegenwacht-Wegenwacht-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Wegenwacht-Wegenwacht-1">
+         <a href="/wegenwacht">
+          Wegenwacht
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Wegenwacht" role="menu">
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/nederland">
+           Pechhulp Nederland
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/europa">
+           Pechhulp Europa
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht">
+           Pechhulp auto
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/caravan">
+           Pechhulp caravan
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/camper">
+           Pechhulp camper
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/fiets">
+           Pechhulp fiets
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/motor">
+           Pechhulp motor
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/bromfiets">
+           Pechhulp bromfiets
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/scootmobiel">
+           Pechhulp scootmobiel
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/jongeren">
+           Pechhulp jongeren
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wegenwacht/partner">
+           Pechhulp partner
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/zakelijk/wegenwacht">
+           Pechhulp zakelijk
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Verzekeringen-Verzekeringen-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Verzekeringen-Verzekeringen-1">
+         <a href="/verzekeringen">
+          Verzekeringen
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Verzekeringen" role="menu">
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/autoverzekering">
+           Autoverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/reisverzekering">
+           Reisverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/annuleringsverzekering">
+           Annuleringsverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/caravanverzekering">
+           Caravanverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/fietsverzekering">
+           Fietsverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/scooterverzekering">
+           Scooterverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/inboedelverzekering">
+           Inboedelverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/aansprakelijkheidsverzekering">
+           Aansprakelijkheidsverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/opstalverzekering">
+           Opstalverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/woonverzekering">
+           Woonverzekering
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen">
+           Alle verzekeringen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verzekeringen/service">
+           Schade &amp; Service
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="active" role="menuitem">
+        <input id="Verkeer-Verkeer-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Verkeer-Verkeer-1">
+         <a href="/verkeer">
+          Verkeer
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Verkeer" role="menu">
+         <li class="active" role="menuitem">
+          <a href="/verkeer">
+           Verkeersinformatie
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verkeer/routeplanner">
+           Routeplanner
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/mobiel/onderweg-app">
+           Onderweg app
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verkeer/filelijst">
+           Filelijst
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verkeer/wegwerkzaamheden">
+           Wegwerkzaamheden
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verkeer/nederland/parkeren">
+           Parkeren
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verkeer/veiligheid">
+           Verkeersveiligheid
+          </a>
+         </li>
+         <li aria-haspopup="true" class="" role="menuitem">
+          <input id="Verkeer-Verkeer-buitenland-2" name="aria-haspopup-toggle" type="checkbox"/>
+          <label for="Verkeer-Verkeer-buitenland-2">
+           <a href="/verkeer/buitenland">
+            Verkeer buitenland
+           </a>
+          </label>
+          <ul aria-label="submenu" data-submenu-title="Verkeer buitenland" role="menu">
+           <li class="" role="menuitem">
+            <a href="/verkeer/buitenland">
+             Verkeer Europa
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/verkeer/buitenland/duitsland">
+             Verkeer Duitsland
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/verkeer/buitenland/frankrijk">
+             Verkeer Frankrijk
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/verkeer/buitenland/verkeersdruktekalenders-zwarte-zaterdag">
+             Verkeersdruktekalenders
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verkeer/buitenland/toloverzicht">
+           Tol en vignetten
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/verkeer/overzicht">
+           Alles over verkeer
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Auto-Auto-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Auto-Auto-1">
+         <a href="/auto">
+          Auto
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Auto" role="menu">
+         <li class="" role="menuitem">
+          <a href="/auto/kopen">
+           Auto kopen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto/verkopen">
+           Auto verkopen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto/elektrisch-rijden">
+           Elektrische auto’s
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto/brandstof">
+           Tanken
+          </a>
+         </li>
+         <li aria-haspopup="true" class="" role="menuitem">
+          <input id="Auto-Tests-en-specificaties-2" name="aria-haspopup-toggle" type="checkbox"/>
+          <label for="Auto-Tests-en-specificaties-2">
+           <a href="/auto/tests-en-specificaties">
+            Tests en specificaties
+           </a>
+          </label>
+          <ul aria-label="submenu" data-submenu-title="Tests en specificaties" role="menu">
+           <li class="" role="menuitem">
+            <a href="/auto/tests-en-specificaties/zoeken">
+             Autotests
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/tests/autostoeltjes">
+             Autostoeltjes
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/tests/bandentests/zomerbandentest">
+             Zomerbanden
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/tests/bandentests/winterbandentest">
+             Winterbanden
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/tests/bandentests/allseasonbandentest">
+             Allseasonbanden
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/tests-en-specificaties">
+             Alle tests
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li aria-haspopup="true" class="" role="menuitem">
+          <input id="Auto-Rijbewijs-halen-2" name="aria-haspopup-toggle" type="checkbox"/>
+          <label for="Auto-Rijbewijs-halen-2">
+           <a href="/auto/rijbewijs">
+            Rijbewijs halen
+           </a>
+          </label>
+          <ul aria-label="submenu" data-submenu-title="Rijbewijs halen" role="menu">
+           <li class="" role="menuitem">
+            <a href="/auto/rijbewijs">
+             Rijbewijs
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/rijbewijs/autorijlessen">
+             Autorijlessen
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/motor/rijbewijs/motorrijlessen">
+             Motorrijlessen
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/motor/rijbewijs/brommer-scooter-rijles">
+             Brommer en scooter
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/rijbewijs/be-aanhanger-halen">
+             Aanhanger
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/auto/rijbewijs/camperrijbewijs-c1-halen">
+             Camper
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto/private-lease">
+           Private Lease
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto/autokosten">
+           Autokosten
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto/koerslijst">
+           Koerslijst
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto/huren">
+           Auto huren
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/auto">
+           Alles over auto
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Fiets-Fiets-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Fiets-Fiets-1">
+         <a href="/fiets">
+          Fiets
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Fiets" role="menu">
+         <li class="" role="menuitem">
+          <a href="/fiets/fiets-aankooptips">
+           Fiets aankooptips
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets/soorten-fietsen">
+           Soorten fietsen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets/fietslease">
+           Fietslease
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets/fietsaccu">
+           Fietsaccu’s
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets/onderhoud">
+           Onderhoud
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets/accessoires-uitrusting">
+           Accessoires &amp; uitrusting
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets/diefstal">
+           Diefstal
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets/test">
+           Tests
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/fiets">
+           Alles over fiets
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Eropuit-Eropuit-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Eropuit-Eropuit-1">
+         <a href="/eropuit">
+          Eropuit
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Eropuit" role="menu">
+         <li class="" role="menuitem">
+          <a href="/eropuit/dagje-uit">
+           Dagje uit
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/eropuit/weekendje-weg">
+           Weekendje weg
+          </a>
+         </li>
+         <li aria-haspopup="true" class="" role="menuitem">
+          <input id="Eropuit-Fietsroutes-2" name="aria-haspopup-toggle" type="checkbox"/>
+          <label for="Eropuit-Fietsroutes-2">
+           <a href="/fietsroutes">
+            Fietsroutes
+           </a>
+          </label>
+          <ul aria-label="submenu" data-submenu-title="Fietsroutes" role="menu">
+           <li class="" role="menuitem">
+            <a href="/fietsroutes">
+             Fietsen overzicht
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/fietsroutes/fietsknooppuntenplanner">
+             Fietsknooppuntenplanner
+            </a>
+           </li>
+           <li class="" role="menuitem">
+            <a href="/fietsroutes/zoeken">
+             Fietsroutes
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/wandelen">
+           Wandelen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/landvananwb">
+           Uitjes en tickets
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/eropuit">
+           Alles over eropuit
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Vakantie-Vakantie-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Vakantie-Vakantie-1">
+         <a href="/vakantie">
+          Vakantie
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Vakantie" role="menu">
+         <li class="" role="menuitem">
+          <a href="/vakantie/inspiratie">
+           Vakantie inspiratie
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/vakantie/zoeken">
+           Vakantie boeken
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/vakantie/reisvoorbereiding">
+           Vakantie voorbereiden
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/kamperen">
+           Kamperen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/vakantie">
+           Meer over vakantie
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Webwinkel-Webwinkel-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Webwinkel-Webwinkel-1">
+         <a href="//webwinkel.anwb.nl/webwinkel">
+          Webwinkel
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Webwinkel" role="menu">
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/aanbiedingen.html">
+           Sale
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/kleding.html">
+           Kleding
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/schoenen.html">
+           Schoenen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/wandelen.html">
+           Wandelen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/fietsen.html">
+           Fietsen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/auto.html">
+           Auto
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/kamperen.html">
+           Kamperen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/vakantie.html">
+           Vakantie
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/elektronica.html">
+           Elektronica
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/boeken-kaarten.html">
+           Boeken &amp; routekaarten
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/milieusticker.html">
+           Milieustickers
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel/vignetten.html">
+           Vignetten
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="//webwinkel.anwb.nl/webwinkel">
+           Alle categorieën
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li aria-haspopup="true" class="" role="menuitem">
+        <input id="Lidmaatschap-Lidmaatschap-1" name="aria-haspopup-toggle" type="checkbox"/>
+        <label for="Lidmaatschap-Lidmaatschap-1">
+         <a href="/lidmaatschap">
+          Lidmaatschap
+         </a>
+        </label>
+        <ul aria-label="submenu" data-submenu-title="Lidmaatschap" role="menu">
+         <li class="" role="menuitem">
+          <a href="/lidmaatschap#lidworden">
+           Lid worden
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/lidmaatschap/wijzigen">
+           Lidmaatschap wijzigen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/ledenvoordeel">
+           Ledenvoordeel
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/lidmaatschap/maatschappelijk/anwb-betrokken">
+           Voor de samenleving
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/kampioen">
+           Kampioen
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/creditcard">
+           Creditcard
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/creditcard/silver-card">
+           Visa Silver Card
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/creditcard/gold-card">
+           Visa Gold Card
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/creditcard/visa-card">
+           Visa Card
+          </a>
+         </li>
+         <li class="" role="menuitem">
+          <a href="/lidmaatschap">
+           Alles over lidmaatschap
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="utility-links">
+        <nav>
+         <a href="/verkeer">
+          files
+         </a>
+         <a href="/verkeer/routeplanner">
+          Routeplanner
+         </a>
+         <a href="https://webwinkel.anwb.nl/webwinkel/winkels">
+          Winkels
+         </a>
+         <a href="/contact">
+          Contact &amp; service
+         </a>
+        </nav>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <ul class="navigation-user">
+     <li aria-haspopup="true" class="mijnanwb">
+      <input id="toggle-navigation-user" name="aria-haspopup-radio-toggle" type="radio"/>
+      <label for="toggle-navigation-user">
+       <a class="not-signed-on-only" data-ssolabel="Welkom" href="/inloggen">
+        Inloggen
+       </a>
+       <a class="signed-on-only" data-ssolabel="Welkom" href="/inlogaccount">
+        Ingelogd
+       </a>
+      </label>
+      <ul aria-label="submenu" role="loginmenu">
+       <li class="not-signed-on-only" role="loginitem">
+        <a href="/inloggen">
+         Inloggen
+        </a>
+       </li>
+       <li class="not-signed-on-only" role="loginitem">
+        <a href="/zakelijk/mijn-anwb-voor-de-zaak">
+         Inloggen ANWB voor de Zaak
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/mijn-anwb">
+         Overzicht Mijn ANWB
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/mijn-anwb/mijn-gegevens">
+         Mijn gegevens
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/mijn-anwb/mijn-producten-en-diensten">
+         Mijn producten en diensten
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/mijn-anwb/mijn-facturen">
+         Mijn facturen
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/mijn-anwb/mijn-correspondentie">
+         Mijn correspondentie
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/mijn-anwb/mijn-ledenvoordeel">
+         Mijn Ledenvoordeel
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/inlogaccount">
+         Inlogaccount wijzigen
+        </a>
+       </li>
+       <li class="signed-on-only" role="loginitem">
+        <a href="/uitloggen">
+         Uitloggen
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <ul class="navigation-search" data-ui="search">
+     <li aria-haspopup="true" class="search">
+      <input id="toggle-navigation-search" name="aria-haspopup-radio-toggle" type="radio"/>
+      <label for="toggle-navigation-search">
+       <a class="menu-search-link">
+        <span>
+         Zoek
+        </span>
+       </a>
+      </label>
+      <ul aria-label="submenu" class="menu-search-wrapper">
+       <li>
+        <form action="/search" class="menu-searchForm" id="anwbsearch" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="get">
+         <meta content="https://www.anwb.nl/search?q={q}" itemprop="target"/>
+         <div class="menu-searchInput">
+          <input autocapitalize="none" data-autosuggest="gsa" id="anwbsearch-input" itemprop="query-input" name="q" placeholder="Zoek op trefwoord" required="" type="search">
+          </input>
+         </div>
+         <button class="btn-next" type="submit">
+          Zoek
+         </button>
+        </form>
+       </li>
+      </ul>
+     </li>
+    </ul>
+   </nav>
+   <!--googleon: all-->
+   <!-- googleoff:all -->
+   <nav class="breadcrumb">
+    <ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+     <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+      <a href="/" itemprop="item">
+       <span itemprop="name">
+        ANWB.nl
+       </span>
+      </a>
+      <meta content="1" itemprop="position"/>
+     </li>
+    </ol>
+   </nav>
+   <!-- googleon:all -->
+  </header>
+  <!-- googleon: all -->
+  <main id="content">
+   <section>
+    <div class="grid-content">
+     <div>
+      <article>
+       <h1>
+        Flitsers op Nederlandse snelwegen
+       </h1>
+       <p class="summary">
+        Overzicht van snelheidscontroles vandaag in Nederland. Zoek op wegnummer of er flitsers op je route zijn, of bekijk direct de lijst met het overzicht van gemelde flitsers.
+       </p>
+       <div data-hook="112_3">
+       </div>
+       <div data-hook="533_3" data-variant="flitsers">
+       </div>
+       <p>
+       </p>
+       <p>
+        Bron meldingen flitsers:
+       </p>
+       <p>
+        <a href="http://www.flitsmeister.nl" target="_blank" title="Flitsmeister apps">
+         <img align="left" alt="Bron: FM Flitsmeister" src="/binaries/w200/content/gallery/anwb/portal/verkeer/nederland/flitsers/flitsmeister-logo-zwrt.gif"/>
+        </a>
+       </p>
+       <div class="socialmedia-buttons">
+        <div class="panel-body">
+         <p>
+          Deel deze pagina
+         </p>
+         <a href="https://www.facebook.com/sharer.php?u=https://www.anwb.nl/verkeer/flitsers?utm_source=SocialShare&amp;utm_medium=Facebook" target="popup" title="Facebook">
+         </a>
+         <a href="https://twitter.com/intent/tweet?url=https://www.anwb.nl/verkeer/flitsers?utm_source=SocialShare&amp;utm_medium=Twitter" target="popup" title="Twitter">
+         </a>
+        </div>
+       </div>
+      </article>
+     </div>
+     <aside>
+      <!--googleoff: all-->
+      <div class="ad-rectangle">
+      </div>
+      <!--googleon: all-->
+      <!-- googleoff:all -->
+      <div class="grid-balanced">
+       <!--googleoff: all-->
+       <section class="panel-crossSell">
+        <a class="panel-body" href="/wegenwacht#pakket">
+         <header>
+          <div>
+           <noscript>
+            <img alt="Wegenwacht Service" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 96px ) / 3 ), 380px" src="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw760" srcset="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg 280w" title="Wegenwacht Service"/>
+           </noscript>
+           <img alt="Wegenwacht Service" lazy-src="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw760" lazy-srcset="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg/ww-zomer-eu-1520.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/wegenwacht/campagnes/2019/ww-zomer-eu-1520.jpg 280w" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 96px ) / 3 ), 380px" title="Wegenwacht Service"/>
+          </div>
+         </header>
+         <div class="sticker-price">
+          <div class="sticker-body">
+           <span class="sticker-line-3">
+            Nu
+           </span>
+           <span class="sticker-line-2">
+            20%
+           </span>
+           <span class="sticker-line-3">
+            korting
+           </span>
+          </div>
+         </div>
+         <div class="panel-main">
+          <h3>
+           <span class="btn-link_link-internal">
+            Wegenwacht Service
+           </span>
+          </h3>
+          <p>
+           Met 900 wegenwachten is de beste pechhulp altijd dichtbij.
+           <b>
+            Nu 20% korting op Wegenwacht Europa Standaard!
+           </b>
+          </p>
+         </div>
+        </a>
+       </section>
+       <!--googleon: all-->
+      </div>
+      <!-- googleon:all -->
+      <!--googleoff: all-->
+      <section class="panel-list-group">
+       <div class="panel-body">
+        <div class="panel-main">
+         <h3>
+          Verkeer Nederland
+         </h3>
+         <ul>
+          <li>
+           <a href="/verkeer/nederland">
+            Verkeersinformatie kaart
+           </a>
+          </li>
+          <li>
+           <a href="/verkeer/nederland/verkeersverwachting">
+            Verkeersverwachting
+           </a>
+          </li>
+          <li>
+           <a href="/verkeer/filelijst">
+            Filelijst
+           </a>
+          </li>
+          <li>
+           <a href="/verkeer/wegwerkzaamheden">
+            Wegwerkzaamheden
+           </a>
+          </li>
+          <li>
+           <a href="/verkeer/flitsers">
+            Flitsers
+           </a>
+          </li>
+          <li>
+           <a href="/verkeer/nederland/verkeerscams/verkeerscams">
+            Verkeerscamera's
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </section>
+      <!--googleon: all-->
+      <section class="panel-editorial">
+       <div class="panel-body">
+        <!--googleoff: all-->
+        <header>
+         <a href="/mobiel/onderweg-app">
+          <noscript>
+           <img alt="ANWB Onderweg app" src="/binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw760" srcset="/binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg 280w" title="ANWB Onderweg app"/>
+          </noscript>
+          <img alt="ANWB Onderweg app" lazy-src="/binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw760" lazy-srcset="/binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg/banner-onderweg-app-1520-855.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/verkeer/nederland/parkeren/anwb-parkeren/redesign/banner-onderweg-app-1520-855.jpg 280w" title="ANWB Onderweg app"/>
+         </a>
+        </header>
+        <div class="panel-main">
+         <h3>
+          <a class="btn-link_link-internal" href="/mobiel/onderweg-app">
+           ANWB Onderweg app
+          </a>
+         </h3>
+         <div>
+          <h3>
+           Verkeersinfo, Parkeren &amp; Tanken app
+          </h3>
+          <p>
+           De beste app voor onderweg!
+          </p>
+         </div>
+        </div>
+        <footer>
+         <ul class="list-linklist">
+          <li>
+           <a href="https://apps.apple.com/app/apple-store/id501658692?pt=507698&amp;ct=ANWBnlVERKEER&amp;mt=8" target="_blank">
+            Gratis de app downloaden (IOS)
+           </a>
+          </li>
+          <li>
+           <a href="https://play.google.com/store/apps/details?id=com.themobilecompany.Onderweg&amp;referrer=utm_source%3Danwb.nl%26utm_medium%3DANWBnlVERKEER%26utm_term%3DQR%26utm_campaign%3DANWBnlVERKEER" target="_blank">
+            Gratis de app downloaden (Android)
+           </a>
+          </li>
+         </ul>
+        </footer>
+        <!--googleon: all-->
+       </div>
+      </section>
+     </aside>
+    </div>
+   </section>
+   <section>
+    <div class="grid-full">
+     <!-- googleoff:all -->
+     <div class="grid-balanced">
+      <!--googleoff: all-->
+      <section class="panel-crossSell">
+       <a class="panel-body" href="/wegenwacht#pakket">
+        <header>
+         <div>
+          <noscript>
+           <img alt="De beste pechhulp, altijd dichtbij" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" src="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw760" srcset="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg 280w" title="De beste pechhulp, altijd dichtbij"/>
+          </noscript>
+          <img alt="De beste pechhulp, altijd dichtbij" lazy-src="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw760" lazy-srcset="/binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg/wegenwacht-zomer-1520-x-855.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/wegenwacht/campagnes/2021/wegenwacht-zomer-1520-x-855.jpg 280w" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" title="De beste pechhulp, altijd dichtbij"/>
+         </div>
+        </header>
+        <div class="sticker-price">
+         <div class="sticker-body">
+          <span class="sticker-line-4">
+           Nu
+          </span>
+          <span class="sticker-line-2">
+           20%
+          </span>
+          <span class="sticker-line-4">
+           korting
+          </span>
+         </div>
+        </div>
+        <div class="panel-main">
+         <h3>
+          <span class="btn-link_link-internal">
+           De beste pechhulp, altijd dichtbij
+          </span>
+         </h3>
+         <p>
+          We doen er alles aan je zo snel mogelijk in eigen auto weer op weg te helpen.
+          <b>
+           Nu 20% korting op Wegenwacht Europa Standaard!
+          </b>
+         </p>
+        </div>
+       </a>
+      </section>
+      <!--googleon: all-->
+      <!--googleoff: all-->
+      <section class="panel-crossSell">
+       <a class="panel-body" href="/creditcard">
+        <header>
+         <div>
+          <noscript>
+           <img alt="ANWB Visa Card" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" src="/binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw760" srcset="/binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg 280w" title="ANWB Visa Card"/>
+          </noscript>
+          <img alt="ANWB Visa Card" lazy-src="/binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw760" lazy-srcset="/binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg/creditcard-zomer-21-v1520.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/portal/creditcard/artikel/2021/creditcard-zomer-21-v1520.jpg 280w" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" title="ANWB Visa Card"/>
+         </div>
+        </header>
+        <div class="sticker-price">
+         <div class="sticker-body">
+          <span class="sticker-line-3">
+           Nú
+          </span>
+          <span class="sticker-line-3">
+           1e jaar
+          </span>
+          <span class="sticker-line-3">
+           gratis
+          </span>
+         </div>
+        </div>
+        <div class="panel-main">
+         <h3>
+          <span class="btn-link_link-internal">
+           ANWB Visa Card
+          </span>
+         </h3>
+         <p>
+          Makkelijk je vakantie boeken en wereldwijd snel en veilig betalen. ANWB Visa Silver Card en ANWB Visa Gold Card
+          <b>
+           nu 1e jaar gratis
+          </b>
+          .
+         </p>
+        </div>
+       </a>
+      </section>
+      <!--googleon: all-->
+      <!--googleoff: all-->
+      <section class="panel-crossSell">
+       <a class="panel-body" href="/verzekeringen/autoverzekering">
+        <header>
+         <div>
+          <noscript>
+           <img alt="ANWB Veilig Rijden Autoverzekering" src="/binaries/content/gallery/anwb/etalages-en-productheaders/verzekeringen/autoverzekering/anwb-autoverzekering.png" title="ANWB Veilig Rijden Autoverzekering"/>
+          </noscript>
+          <img alt="ANWB Veilig Rijden Autoverzekering" lazy-src="/binaries/content/gallery/anwb/etalages-en-productheaders/verzekeringen/autoverzekering/anwb-autoverzekering.png" title="ANWB Veilig Rijden Autoverzekering"/>
+         </div>
+        </header>
+        <div class="sticker-price">
+         <div class="sticker-body">
+          <span class="sticker-line-4">
+           Nu
+          </span>
+          <span class="sticker-line-2">
+           15%
+          </span>
+          <span class="sticker-line-4">
+           korting
+          </span>
+         </div>
+        </div>
+        <div class="panel-main">
+         <h3>
+          <span class="btn-link_link-internal">
+           ANWB Veilig Rijden Autoverzekering
+          </span>
+         </h3>
+         <p>
+          Je auto voordelig verzekeren? Nu een jaar lang 15% korting op de Veilig Rijden Autoverzekering.
+         </p>
+        </div>
+       </a>
+      </section>
+      <!--googleon: all-->
+      <!--googleoff: all-->
+      <section class="panel-crossSell">
+       <a class="panel-body" href="https://webwinkel.anwb.nl/webwinkel/auto/autopech-veiligheid.html?icp=anwb.nl_referral_auto_cross-sell_verkeersveiligheid">
+        <header>
+         <div>
+          <noscript>
+           <img alt="Veiligheidsartikelen" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" src="/binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw760" srcset="/binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg 280w" title="Veiligheidsartikelen"/>
+          </noscript>
+          <img alt="Veiligheidsartikelen" lazy-src="/binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw760" lazy-srcset="/binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg/auto-verkeersveiligheid.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/crosssell/webwinkel/auto-2020/auto-verkeersveiligheid.jpg 280w" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" title="Veiligheidsartikelen"/>
+         </div>
+        </header>
+        <div class="panel-main">
+         <h3>
+          <span class="btn-link_link-internal">
+           Veiligheidsartikelen
+          </span>
+         </h3>
+         <p>
+          Heb jij deze artikelen al in de auto liggen? Van gevarendriehoek tot noodhamer. Shop ze
+          <b>
+           hier!
+          </b>
+         </p>
+        </div>
+       </a>
+      </section>
+      <!--googleon: all-->
+      <!--googleoff: all-->
+      <section class="panel-crossSell">
+       <a class="panel-body" href="/mobiel/onderweg-app/anwb-file-alert">
+        <header>
+         <div>
+          <noscript>
+           <img alt="Drukke spits? ANWB File alert!" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" src="/binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw760" srcset="/binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg 280w" title="Drukke spits? ANWB File alert!"/>
+          </noscript>
+          <img alt="Drukke spits? ANWB File alert!" lazy-src="/binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw760" lazy-srcset="/binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg/druk-stadsverkeer-files-1520-x-8-55.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/nieuws/verkeer/redesign-standaard-beelden/verkeersdrukte-files/druk-stadsverkeer-files-1520-x-8-55.jpg 280w" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" title="Drukke spits? ANWB File alert!"/>
+         </div>
+        </header>
+        <div class="panel-main">
+         <h3>
+          <span class="btn-link_link-internal">
+           Drukke spits? ANWB File alert!
+          </span>
+         </h3>
+         <p>
+          'Wapen' je tegen de files met ANWB File alert. Krijg op jouw woon-werk route een gratis pushbericht als er vertraging optreedt.
+         </p>
+        </div>
+       </a>
+      </section>
+      <!--googleon: all-->
+      <!--googleoff: all-->
+      <section class="panel-crossSell">
+       <a class="panel-body" href="https://webwinkel.anwb.nl/webwinkel/cadeaus?icp=anwb.nl_referral_cadeaushop_cross-sell_algemeen">
+        <header>
+         <div>
+          <noscript>
+           <img alt="Cadeaushop" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" src="/binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw760" srcset="/binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg 280w" title="Cadeaushop"/>
+          </noscript>
+          <img alt="Cadeaushop" lazy-src="/binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw760" lazy-srcset="/binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw1520 1520w, /binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw760 760w, /binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw560 560w, /binaries/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg/cadeaushop-algemeen.jpg/anwb%3Aw380 380w, /binaries/w280/content/gallery/anwb/crosssell/webwinkel/cadeaushop-algemeen.jpg 280w" sizes="(max-width:40em) calc( 100vw - 24px ), (max-width:70em) calc( ( 100vw - 114px ) / 4 ), 280px" title="Cadeaushop"/>
+         </div>
+        </header>
+        <div class="panel-main">
+         <h3>
+          <span class="btn-link_link-internal">
+           Cadeaushop
+          </span>
+         </h3>
+         <p>
+          Shop
+          <b>
+           hier
+          </b>
+          de leukste cadeaus voor de wandelaar, fietser, reiziger of autoliefhebber!
+         </p>
+        </div>
+       </a>
+      </section>
+      <!--googleon: all-->
+     </div>
+     <!-- googleon:all -->
+    </div>
+   </section>
+  </main>
+  <button data-ui="nps-btn">
+   Geef je mening
+  </button>
+  <footer>
+   <!-- googleoff:all -->
+   <section class="ANWB-section--navigation ANWB-footer__section">
+    <section class="ANWB-structure ANWB-structure--balanced ANWB-structure--no-margin">
+     <div class="ANWB-collapsible ANWB-collapsible--mobile-only">
+      <input aria-controls="collapsible-footer-links-0" checked="" data-collapse="" data-toggle-on="breakpoint-s" id="footer-links-0" type="checkbox" value="on"/>
+      <h2 class="ANWB-collapsible__title">
+       <label class="ANWB-collapsible__indicator" for="footer-links-0">
+        Contact &amp; Service
+       </label>
+      </h2>
+      <div aria-hidden="false" class="ANWB-collapsible__content" id="collapsible-footer-links-0">
+       <ul class="ANWB-footer__links">
+        <li>
+         <a href="/contact-en-service">
+          Contact met ANWB
+         </a>
+        </li>
+        <li>
+         <a href="/alarmcentrale">
+          ANWB Alarmcentrale
+         </a>
+        </li>
+        <li>
+         <a href="/experts">
+          ANWB Experts
+         </a>
+        </li>
+        <li>
+         <a href="https://www.anwb.nl/vakantie/reizen-van-anwb">
+          Reizen van ANWB
+         </a>
+        </li>
+        <li>
+         <a href="/verzekeringen/contact">
+          ANWB Verzekeringen
+         </a>
+        </li>
+        <li>
+         <a href="https://webwinkel.anwb.nl/webwinkel/winkels">
+          ANWB Winkels
+         </a>
+        </li>
+        <li>
+         <a href="/wegenwacht">
+          Pechhulp
+         </a>
+        </li>
+        <li>
+         <a href="/juridisch-advies">
+          Juridisch advies
+         </a>
+        </li>
+        <li>
+         <a href="/lidmaatschap/opzeggen">
+          Lidmaatschap opzeggen
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="ANWB-collapsible ANWB-collapsible--mobile-only">
+      <input aria-controls="collapsible-footer-links-1" checked="" data-collapse="" data-toggle-on="breakpoint-s" id="footer-links-1" type="checkbox" value="on"/>
+      <h2 class="ANWB-collapsible__title">
+       <label class="ANWB-collapsible__indicator" for="footer-links-1">
+        Over ANWB
+       </label>
+      </h2>
+      <div aria-hidden="false" class="ANWB-collapsible__content" id="collapsible-footer-links-1">
+       <ul class="ANWB-footer__links">
+        <li>
+         <a href="/belangenbehartiging">
+          Belangenbehartiging
+         </a>
+        </li>
+        <li>
+         <a href="/maa">
+          ANWB Medical Air Assistance
+         </a>
+        </li>
+        <li>
+         <a href="/jaaroverzicht/nieuws">
+          ANWB Vandaag
+         </a>
+        </li>
+        <li>
+         <a href="/over-anwb">
+          Vereniging en bedrijf
+         </a>
+        </li>
+        <li>
+         <a href="/over-anwb/persinformatie">
+          Voor de pers
+         </a>
+        </li>
+        <li>
+         <a href="https://www.werkenbijanwb.nl">
+          Werken bij de ANWB
+         </a>
+        </li>
+        <li>
+         <a href="/lidmaatschap/anwb-vrijwilligers">
+          Vrijwilligerswerk
+         </a>
+        </li>
+        <li>
+         <a href="/zakelijk">
+          ANWB voor de Zaak
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="ANWB-collapsible ANWB-collapsible--mobile-only">
+      <input aria-controls="collapsible-footer-links-2" checked="" data-collapse="" data-toggle-on="breakpoint-s" id="footer-links-2" type="checkbox" value="on"/>
+      <h2 class="ANWB-collapsible__title">
+       <label class="ANWB-collapsible__indicator" for="footer-links-2">
+        Volg ons
+       </label>
+      </h2>
+      <div aria-hidden="false" class="ANWB-collapsible__content" id="collapsible-footer-links-2">
+       <ul class="ANWB-footer__links">
+        <li>
+         <a href="/nieuwsbrieven" target="_blank">
+          Nieuwsbrieven
+         </a>
+        </li>
+        <li>
+         <a href="/mobiel">
+          ANWB Apps
+         </a>
+        </li>
+        <li>
+         <a href="//www.facebook.com/anwb" target="_blank">
+          Facebook
+         </a>
+        </li>
+        <li>
+         <a href="//www.instagram.com/anwb" target="_blank">
+          Instagram
+         </a>
+        </li>
+        <li>
+         <a href="//www.twitter.com/anwb" target="_blank">
+          Twitter
+         </a>
+        </li>
+        <li>
+         <a href="//www.youtube.com/anwb" target="_blank">
+          Youtube
+         </a>
+        </li>
+        <li>
+         <a href="//www.linkedin.com/company/anwb" target="_blank">
+          LinkedIn
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="ANWB-pane ANWB-pane--no-top">
+      <h3 class="ANWB-collapsible__title">
+       Word lid
+      </h3>
+      <div class="ANWB-collapsible__content">
+       <ul class="_list-unstyled">
+        <li>
+         <a class="ANWB-footer__image" href="/lidmaatschap?ovaherk=footer">
+          <noscript>
+           <img alt="anwb-lidmaatschap" src="/binaries/content/gallery/anwb/footer/word-lid-2019.png"/>
+          </noscript>
+          <img alt="anwb-lidmaatschap" lazy-src="/binaries/content/gallery/anwb/footer/word-lid-2019.png"/>
+         </a>
+        </li>
+        <li>
+         <a class="btn-reversed_link-internal ANWB-footer__button" href="/lidmaatschap?ovaherk=footer" role="button">
+          Word lid
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </section>
+   </section>
+   <!-- googleon:all -->
+   <section class="ANWB-structure ANWB-structure--full ANWB-structure--no-margin">
+    <nav class="ANWB-pane ANWB-footer__disclaimer">
+     <a href="/aansprakelijkheid">
+      Aansprakelijkheid
+     </a>
+     <a href="/uw-privacy">
+      Privacy en cookies
+     </a>
+     <a href="/over-anwb/copyright">
+      © ANWB
+     </a>
+    </nav>
+   </section>
+  </footer>
+ </body>
+</html>
